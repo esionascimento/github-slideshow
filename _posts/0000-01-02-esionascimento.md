@@ -2,5 +2,5 @@
  layout : título do slide
  : " Bem-vindo ao nosso segundo slide! "
 ---
-Seu texto 
+Vida, Promessa, Continuação, Superação, Correr, Férias
 Use a seta para a esquerda para voltar!
